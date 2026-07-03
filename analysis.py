@@ -102,7 +102,7 @@ plt.tight_layout()
 plt.title("Sales by Region")
 plt.xlabel("Region")
 plt.ylabel("Total Sales")
-
+plt.savefig("sales_by_region.png")
 plt.show()
 print("\n-----------------------------")
 print("Sales by Sub-Category")

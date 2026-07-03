@@ -66,7 +66,27 @@ The project includes the following visualizations:
 - Discount vs Profit Scatter Plot
 
 ---
+## 📷 Sample Output
 
+### Sales by Category
+
+![Sales by Category](sales_by_category.png)
+
+### Sales by Region
+
+![Sales by Region](sales_by_region.png)
+
+### Profit by Category
+
+![Profit by Category](profit_by_category.png)
+
+### Top 10 Selling Sub-Categories
+
+![Top 10 Sub-Categories](top10_subcategories.png)
+
+### Discount vs Profit
+
+![Discount vs Profit](discount_vs_profit.png)
 ## ▶️ How to Run
 
 Clone the repository
